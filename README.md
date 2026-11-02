@@ -3,7 +3,7 @@ Este site foi desenvolvido com o objetivo de criar um site moderno, intuitivo e 
 
 ##  Tecnologias utilizadas
 
-- HTML5
+- HTML
 - CSS
 - JavaScript
 
